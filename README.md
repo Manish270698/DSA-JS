@@ -16,3 +16,6 @@ Data Structures and Algorithms with JavaScript
 - [StarPattern 7](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/StarPatternSeven.js)
 - [StarPattern 8](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/StarPatternEight.js)
 - [StarPattern 9](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/StarPatternNine.js)
+- [Count Digits in a number](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/CountDigits.js)
+- [Palindrome Number - Leetcode:9](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/PalindromeNumber.js)
+- [Reverse Integer - Leetcode:7](https://github.com/Manish270698/DSA-JS/blob/main/Warm_up/ReverseInteger.js)
