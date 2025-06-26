@@ -23,3 +23,4 @@ Data Structures and Algorithms with JavaScript
 ### Array- Level 0
 
 - [Remove Duplicates - Leetcode:26](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/RemoveDuplicates.js)
+- [Remove Element - Leetcode:27](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/RemoveElement.js)
