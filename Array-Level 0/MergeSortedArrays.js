@@ -24,6 +24,7 @@ var merge = function (nums1, m, nums2, n) {
 };
 
 var merge2 = function (nums1, m, nums2, n) {
+  //Best Solution
   let p1 = m - 1;
   let p2 = n - 1;
 

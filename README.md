@@ -25,3 +25,4 @@ Data Structures and Algorithms with JavaScript
 - [Remove Duplicates - Leetcode:26](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/RemoveDuplicates.js)
 - [Remove Element - Leetcode:27](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/RemoveElement.js)
 - [Merge Sorted Arrays - Leetcode:88](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/MergeSortedArrays.js)
+- [Move Zeroes At End - Leetcode:283](https://github.com/Manish270698/DSA-JS/blob/main/Array-Level%200/MoveZeroes.js)
